@@ -6,6 +6,7 @@
 .DS_Store
 /build
 /captures
-gradle/wrapper/gradle-wrapper.properties
+app/src/main/java/com/secretbiology/ncbsinfolight/SplashActivity.java
 gradle.properties
+gradle/wrapper/gradle-wrapper.properties
 gradlew.bat
